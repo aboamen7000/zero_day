@@ -1,4 +1,3 @@
-*This file is mandatory in projects*
 ![img](https://github.com/DevIA3kl/other/blob/master/more/ALX.png)
 
 # ALX Zero Day 💥
