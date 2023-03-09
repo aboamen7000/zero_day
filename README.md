@@ -2,7 +2,7 @@
 
 # ALX Zero Day 💥
 
->Learning bash, scripting, networking and web infra right now.
+>Learning DevOps right now.
 
 ## About
 
